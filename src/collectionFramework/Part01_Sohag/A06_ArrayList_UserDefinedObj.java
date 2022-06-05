@@ -12,12 +12,12 @@ public class A06_ArrayList_UserDefinedObj {
 	public static void main(String[] args) {
 		
 		//creating objects of of our own class
-				A06_EnthrallSt st1= new A06_EnthrallSt("Ryhan",25);
-				A06_EnthrallSt st2= new A06_EnthrallSt("Fatima",24);
-				A06_EnthrallSt st3= new A06_EnthrallSt("Kanta",22);
+				A07_EnthrallSt st1= new A07_EnthrallSt("Ryhan",25);
+				A07_EnthrallSt st2= new A07_EnthrallSt("Fatima",24);
+				A07_EnthrallSt st3= new A07_EnthrallSt("Kanta",22);
 				
 				//creating arrayList obj
-				ArrayList<A06_EnthrallSt> arrList=new ArrayList<>();
+				ArrayList<A07_EnthrallSt> arrList=new ArrayList<>();
 				//by calling add()--adding our EnthrallSt type obj
 				arrList.add(st1);
 				arrList.add(st2);
@@ -32,7 +32,7 @@ public class A06_ArrayList_UserDefinedObj {
 				
 				
 		 //     by iterator()
-				Iterator<A06_EnthrallSt> it=arrList.iterator();
+				Iterator<A07_EnthrallSt> it=arrList.iterator();
 				while(it.hasNext()) {
 					System.out.println(it.next().age);
 				}

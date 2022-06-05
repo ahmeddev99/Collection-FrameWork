@@ -29,9 +29,7 @@ public class B02_LinkedList_AddObjFromOutside {
 		for(int temp:list) {
 			System.out.println(temp);
 		}
-		
-		
-		
+			
 
 		
 	}

@@ -1,17 +1,15 @@
 package collectionFramework.Part01_Sohag;
 
-/*
-implements the List interface
-uses a dynamic array
-different types of value
-synchronized
-*/ 
-
-
 import java.util.Iterator;
 import java.util.Vector;
 
 public class C03_Vector_AddingObj {
+	
+//		implements the List interface
+//		uses a dynamic array
+//	 	different types of value
+//		synchronized
+
 	
 	public static void main(String[] args) {
 	

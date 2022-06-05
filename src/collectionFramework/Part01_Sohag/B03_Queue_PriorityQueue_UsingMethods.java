@@ -25,7 +25,7 @@ public class B03_Queue_PriorityQueue_UsingMethods {
 		// TODO Auto-generated method stub
 		
 		 Queue<Integer> q = new LinkedList<>();
-		 
+		 // ^^ implementing Queue by LinkedList or creating q
 	        q.add(5);
 	        q.add(50);
 	        q.add(15);

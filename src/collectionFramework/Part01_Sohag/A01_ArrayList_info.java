@@ -33,16 +33,15 @@ RandomAccess  (marker Interface- no method available) Interface is implemented b
 *
 */
 
-public class A01_ArrayList_info {
-	
-	 public void add() {
-			System.out.println(5+5);
-		}
-	 
-	 public static void main(String[]args) {
-		 A01_ArrayList_info objArrayList_Info =new A01_ArrayList_info();
-			objArrayList_Info.add();
-			
-		}
-
-}
+//public class A01_ArrayList_info {
+//
+//	public void add() {
+//		System.out.println(5 + 5);
+//	}
+//
+//	public static void main(String[] args) {
+//		A01_ArrayList_info objArrayList_Info = new A01_ArrayList_info();
+//		objArrayList_Info.add();
+//	}
+//
+//}

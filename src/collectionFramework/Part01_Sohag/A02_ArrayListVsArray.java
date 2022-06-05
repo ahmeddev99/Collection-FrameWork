@@ -108,20 +108,6 @@ public class A02_ArrayListVsArray {
 			System.out.println(arrayList.get(i));
 		}
 		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 		
 	}
